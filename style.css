@@ -67,7 +67,7 @@ body {
 }
 
 .main_container {
-    min-height: calc(100vh - 10rem);
+    min-height: calc(100dvh - 10rem);
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
